@@ -1,24 +1,40 @@
-# monuments-de-paris
+# Les monuments 🏰 de Paris 🌁 de l'époque napoléonienne
 
-## Project setup
-```
+## Projet
+
+### Monuments
+
+* Arc de Triomphe (Etoile)
+* Arc de Triomphe (Carousel)
+* Colonne de la Grande Armée
+
+### installation et usage
+
+### Installation
+
+Assurez-vous d'avoir installé @vue/cli3 ou plus.
+Copiez/Clonez ensuite le REPO Github
+
+```shell
 yarn install
 ```
 
-### Compiles and hot-reloads for development
-```
+```shell
 yarn serve
 ```
 
-### Compiles and minifies for production
-```
-yarn build
-```
+### Dépendances et Librairies
 
-### Lints and fixes files
-```
-yarn lint
-```
+* Vue
+* Leaflet
+* Bootstrap 4 / BootstrapVue
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Demos
+
+### CodePen
+
+[Monuments](https://codepen.io/bcotteret/pen/gOapdJE)
+
+### JsFiddle
+
+[Monuments de Paris](https://jsfiddle.net/bcotteret/4j70tx5f/1/)
