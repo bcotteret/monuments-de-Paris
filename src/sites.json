@@ -1,0 +1,121 @@
+[
+    {
+        "id":"01",
+        "name": "Arc de Triomphe",
+        "categorie": "commemoratif",
+        "latitude": 48.873869,
+        "longitude": 2.295070
+    },
+    {
+        "id": "02",
+        "name": "Arc de Triomphe du Carrousel",
+        "categorie": "commemoratif",
+        "latitude": 48.861716,
+        "longitude": 2.332924
+    },
+    {
+        "id": "12",
+        "name": "Colonne Vendôme",
+        "categorie": "commemoratif",
+        "latitude": 48.867438, 
+        "longitude": 2.329369
+    },
+    {
+        "id": "03",
+        "name": "Pont des Arts",
+        "categorie": "circulation",
+        "latitude": 48.858329,
+        "longitude": 2.337501
+    },
+    {
+        "id": "04",
+        "name": "Pont d'Austerlitz",
+        "categorie": "circulation",
+        "latitude": 48.844933,
+        "longitude": 2.365953
+    },
+    {
+        "id": "05",
+        "name": "Pont d'Iéna",
+        "categorie": "circulation",
+        "latitude": 48.859824,
+        "longitude": 2.292156
+    },
+    {
+        "id": "06",
+        "name": "Canal Saint-Martin",
+        "categorie": "approvisionnement",
+        "latitude": 48.870326, 
+        "longitude": 2.366064
+    },
+    {
+        "id": "07",
+        "name": "Canal Saint-Denis",
+        "categorie": "approvisionnement",
+        "latitude": 48.895585, 
+        "longitude": 2.384141
+    },
+    {
+        "id": "8e",
+        "name": "Abattoirs de Grenelle",
+        "categorie": "hygiene",
+        "latitude": 48.849483,
+        "longitude": 2.299017
+    },
+    {
+        "id": "8a",
+        "name": "Abattoirs de Montmartre",
+        "categorie": "hygiene",
+        "latitude": 48.882253, 
+        "longitude": 2.342606
+    },
+    {
+        "id": "8b",
+        "name": "Abattoirs de Ménilmontant",
+        "categorie": "hygiene",
+        "latitude": 48.861730,
+        "longitude": 2.378783
+    },
+    {
+        "id": "8c",
+        "name": "Abattoirs du Roule",
+        "categorie": "hygiene",
+        "latitude": 48.876481,
+        "longitude": 2.315112
+    },
+    {
+        "id": "8d",
+        "name": "Abattoirs de Villejuif",
+        "categorie": "hygiene",
+        "latitude": 48.833020,
+        "longitude": 2.357766
+    },
+    {
+        "id": "09",
+        "name": "Halle aux Blés",
+        "categorie": "approvisionnement",
+        "latitude": 48.862910,
+        "longitude": 2.342418
+    },
+    {
+        "id": "10",
+        "name": "Palais Brongniart",
+        "categorie": "commerce",
+        "latitude": 48.869255,
+        "longitude": 2.341025
+    },
+    {
+        "id": "11",
+        "name": "Assemblée Nationale",
+        "categorie": "commemoratif",
+        "latitude": 48.861591,
+        "longitude": 2.319989
+    },
+    {
+        "id": "13",
+        "name": "Eglise de la Madeleine",
+        "categorie": "commemoratif",
+        "latitude": 48.869973,
+        "longitude": 2.324368
+    }
+]
